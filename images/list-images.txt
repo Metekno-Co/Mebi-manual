@@ -1,0 +1,28 @@
+H1. [Ảnh: màn hình Đăng ký]  1-man-hinh-dang-ky-mebi.jpg / 1-man-hinh-dang-nhap-mebi.jpg
+H2. [Ảnh: màn hình Hồ sơ cá nhân]
+H3. [Ảnh: danh sách Giải đấu]
+H4. [Ảnh: màn hình Đăng ký tham gia]
+H5. [Ảnh: trạng thái đăng ký]
+H6. [Ảnh: lịch thi đấu / check-in]
+H7. mebi-modal
+H8. mebi-mobile
+H9. [Ảnh: Player Card]
+H10. [Ảnh: bảng Ranking]
+H11. [Ảnh: tab Thống kê]
+
+H12. [Ảnh: màn hình Tạo giải đấu]
+H13. [Ảnh: màn hình Tạo nội dung thi đấu]
+H14. [Ảnh: màn hình Giải thưởng]
+H15. [Ảnh: màn hình Lệ phí]
+H16. [Ảnh: nút Mở đăng ký]
+H17. [Ảnh: danh sách đăng ký]
+H18. [Ảnh: cấu hình sơ đồ]
+H19. [Ảnh: màn hình Bốc thăm]
+H20. [Ảnh: quản lý thi đấu]
+H21. mebi-modal
+
+<div class="card">
+    <div class="imgph">
+        <img src="images/dang-ky.png">
+    </div>
+</div>
